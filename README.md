@@ -1,5 +1,8 @@
 # Robotics2_JacobianandPT_Group11_Cylindrical_2024
 
+![JACOBIAN AND PATH TRAJECTORY (1)](https://github.com/ImangTimang/Robotics2_JacobianandPT_Group11_Cylindrical_2024/assets/157728066/a86ae340-967b-492b-a210-2f10985c2189)
+
+###
 
  <h2 align="center"> ˚ ༘♡ ⋆｡˚Abstract of the Project	
 
