@@ -193,7 +193,7 @@ _FOR MORE EXPLANATION ABOUT PATH AND TRAJECTORY OF A CYLINDRICAL MANIPULATOR WAT
 </p>
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1Tbsl4pHeAM6-_r9N9IRDt9clVk28aHU4/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1WGj0_jPVVt4iLAymyieFgx-H6kolkVqW/view?usp=sharing">
     <img height=100" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/0d3c379c-6cbe-42fb-ab1a-b4c7201f76bc"  />
   </a>
 </div>
