@@ -1,4 +1,4 @@
-# Robotics2_JacobianandPT_Group11_Cylindrical_2024
+
 
 ![JACOBIAN AND PATH TRAJECTORY (1)](https://github.com/ImangTimang/Robotics2_JacobianandPT_Group11_Cylindrical_2024/assets/157728066/a86ae340-967b-492b-a210-2f10985c2189)
 
@@ -163,9 +163,69 @@ _FOR MORE EXPLANATION ABOUT SOLIVING THE SINGULARITY OF A CYLINDRICAL MANIPULATO
 
 Important topics in the fields of robotics and automation more broadly are path planning and trajectory planning. In fact, in order to attain shorter production times, robots and autonomous machines are trending toward operating at ever-higher speeds. Due to the high operating speed, which might cause extreme performances from the actuators and control system, the robot motion's repeatability and accuracy may be compromised. As a result, extra care should be taken to create a trajectory that can be followed quickly without endangering the robot by preventing excessive actuator accelerations and mechanical structure vibrations. A trajectory like that is said to be smooth. Because of these factors, trajectory planning and path planning
 
+#
+
+###
+![436522470_416134364639675_2691159275235051753_n](https://github.com/ImangTimang/Robotics2_JacobianandPT_Group11_Cylindrical_2024/assets/157728066/a7e6e72d-9756-4915-8ba1-ce414c8a64b4)
+
+![445821114_1120735622448622_8263710956215963568_n](https://github.com/ImangTimang/Robotics2_JacobianandPT_Group11_Cylindrical_2024/assets/157728066/9f39bfd0-edf8-4977-9080-9c0cd8575496)
+
+![436013294_374045945106336_1395162898234613610_n](https://github.com/ImangTimang/Robotics2_JacobianandPT_Group11_Cylindrical_2024/assets/157728066/12fcdb24-65d0-4d73-a2f4-e2aad98e4ea0)
+
+![442660643_1004688993833393_540490273657018131_n](https://github.com/ImangTimang/Robotics2_JacobianandPT_Group11_Cylindrical_2024/assets/157728066/38a6e923-43d3-4763-90d9-5218ab6fb05a)
+
+![442705760_465351759347703_5441534518094845501_n](https://github.com/ImangTimang/Robotics2_JacobianandPT_Group11_Cylindrical_2024/assets/157728066/bceece20-0a17-444d-b1e6-51198e2d0c00)
+
+#
+###
+<p align="center">
+	
+_FOR MORE EXPLANATION ABOUT PATH AND TRAJECTORY OF A CYLINDRICAL MANIPULATOR WATCH THE VIDEO:_
+
+</p>
 
 
+###
+<p align="center">
+  <img width="450" src="https://github.com/ImangTimang/Robotics2_JacobianandPT_Group11_Cylindrical_2024/assets/157728066/41fed9f2-bacc-49a5-a26e-87c64a1422a9">
+</p>
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/1Tbsl4pHeAM6-_r9N9IRDt9clVk28aHU4/view?usp=sharing">
+    <img height=100" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/0d3c379c-6cbe-42fb-ab1a-b4c7201f76bc"  />
+  </a>
+</div>
+
+###
+#
+###
+**»PATH AND TRAJECTORY GUI CALCULATOR OF A CYLINDRICAL MANIPULATOR**
+###
+↳ VIDEO ༉‧₊
+
+###
+
+<p align="center">
+  <img width="450" src="https://github.com/ImangTimang/Robotics2_JacobianandPT_Group11_Cylindrical_2024/assets/157728066/32c78e34-0e25-4607-a2b4-e779256a1542">
+</p>
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/17DNjmEMWn0cY3oTHavFcX-kmk4GRZIcC/view?usp=sharing">
+    <img height=100" src="https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/0d3c379c-6cbe-42fb-ab1a-b4c7201f76bc"  />
+  </a>
+</div>
 
 
+![R (4)](https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/15d3dfb1-d0e8-4dc7-8f99-bdefd5121fea)
 
+###
+ <h2 align="center">  ˚ ༘♡ ⋆｡˚ REFERENCES	
 
+ ###
+
+		https://robodk.com/blog/robot-singularities/
+		https://www.mathworks.com/help/matlab/ref/odejacobian.html
+  		https://www.researchgate.net/publication/282955967_Path_Planning_and_Trajectory_Planning_Algorithms_A_General_Overview
+  		
+
+ 
