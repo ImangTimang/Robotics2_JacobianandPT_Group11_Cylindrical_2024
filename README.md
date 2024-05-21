@@ -126,7 +126,8 @@ _FOR MORE EXPLANATION ABOUT SOLIVING DIFFERENTIAL OF A CYLINDRICAL MANIPULATOR W
 ###
 ###
 <p align="center">	
-<img width= "450" src="https://github.com/ImangTimang/Robotics2_JacobianandPT_Group11_Cylindrical_2024/assets/157728066/9a69cff3-ff0e-4aaa-8671-6e9814151662">
+<img width= "450" src="https://github.com/ImangTimang/Robotics2_JacobianandPT_Group11_Cylindrical_2024/assets/157492494/0f923cce-fd1c-4c7c-87f9-9ce0b7d281cf"
+
 </p>
 
 ###
