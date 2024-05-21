@@ -84,7 +84,8 @@ _FOR MORE EXPLANATION ABOUT JACOBIAN MATRIX OF A CYLINDRICAL MANIPULATOR WATCH T
   
 ###
 <p align="center">	
-<img width= "600" src="https://github.com/ImangTimang/Robotics2_JacobianandPT_Group11_Cylindrical_2024/assets/157728066/9cb77ed8-b5ad-4b79-bc1c-e95c8a089243">
+<img width= "600" src="https://github.com/ImangTimang/Robotics2_JacobianandPT_Group11_Cylindrical_2024/assets/157492494/d3d1fcc8-f58c-400e-9719-3103e4ebbe6b"
+>
 </p>
 
 ###
