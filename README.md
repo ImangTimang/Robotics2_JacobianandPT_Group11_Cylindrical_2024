@@ -205,8 +205,15 @@ _FOR MORE EXPLANATION ABOUT PATH AND TRAJECTORY OF A CYLINDRICAL MANIPULATOR WAT
 ###
 ↳ VIDEO ༉‧₊
 
-###
+### 
+GUI CALCULATOR 
+<p align="center">
+  <img width="450" src="!https://github.com/ImangTimang/Robotics2_JacobianandPT_Group11_Cylindrical_2024/assets/157549014/e0b46ace-5ba6-444d-b5ac-107f5effa95a">
+</p>
 
+
+
+###
 <p align="center">
   <img width="450" src="https://github.com/ImangTimang/Robotics2_JacobianandPT_Group11_Cylindrical_2024/assets/157728066/32c78e34-0e25-4607-a2b4-e779256a1542">
 </p>
