@@ -8,8 +8,7 @@
 
  ###
 
-  This section will discuss the topics of Jacobian matrix, singularities, differential equations, and path and trajectory planning for cylindrical manipulators, all of which are essential for meeting the Final Requirements in Robotics 2. Industrial fields commonly use cylindrical manipulators because of their simple structure, ease of use, and controllability. For this, we start by calculating the Jacobian matrix for a cylindrical manipulator and then creating a graphical user interface (GUI) to verify the accuracy of the answers. We highlight the significance of the Jacobian matrix in calculating both the joint and end-effector velocities. The investigation continues with the identification and classification of determinants using the basket method to determine the singularities within the manipulator's workspace, as well as their implications for motion planning and control strategies. We develop differential equations that govern the manipulator's dynamics, establishing the foundation for comprehending its behavior under diverse operating conditions. We then focus on path and trajectory planning, using the Jacobian matrix to create algorithms that ensure smooth, collision-free motion. Simulations using a virtual machine and MATLAB validate the proposed methodologies, showcasing their effectiveness in enhancing manipulator performance. The findings help to optimize cylindrical manipulator operations and provide insights into advanced robotic system design and control.
-
+ 
 ###
 ![R (4)](https://github.com/ImangTimang/Cylindrical_Manipulator_Testing/assets/157728066/15d3dfb1-d0e8-4dc7-8f99-bdefd5121fea)
 
